@@ -5,4 +5,53 @@
     font-weight: 400;
     font-style: normal;
   }
+  /* shared css starts */
+  .color-1{
+    color: rgba(255, 255, 255, 1);
+  }
+  .color-btn{
+    background-color: rgba(255, 89, 89, 1);
+  }
+
+  /* shared css ends*/
+
+  /* header css starts */
+  header{
+    background-image: url(../images/donation6.jpg);
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+    /* height: 500px; */
+  }
+  .banner{
+    width: 1060px;
+    margin: 0 auto;
+    border: 1px solid tomato;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .banner-title{
+    font-size: 4rem;
+    font-weight: 700px;
+    text-align: center;
+
+  }
+  .banner-text{
+    font-size: 1.12rem;
+    font-weight: 400px;
+    text-align: center;
+  }
+  .banner-btn{
+    border: none;
+    border-radius: 5px;
+    padding: 16px 20px;
+    font-size: 1.25rem;
+    font-weight: 600px;
+    display: block;
+    margin: 0 auto;
+
+  }
+
+  /* header css ends */
   
