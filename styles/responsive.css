@@ -16,6 +16,10 @@
         width: 45%;
         height: 100px;
     }
+    .plan-container{
+        grid-template-columns: repeat(1, 1fr);
+        gap: 10px;
+    }
    
-    
+   
 }
