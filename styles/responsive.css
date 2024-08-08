@@ -26,6 +26,12 @@
        grid-template-columns: repeat(1, 1fr);
        
     }
+    .update{
+        width: 100%;
+    }
+    .Subscribe{
+        margin-top: 20px;
+    }
    
    
 }
