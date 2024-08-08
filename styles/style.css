@@ -156,6 +156,51 @@
 
   /* plan css ends */
 
+  /* help css starts */
+  .help{
+    border: 1px solid tomato;
+    margin-top: 130px;
+  }
+  
+  
+  
+  .help-card{
+    /* border: 1px solid darkred; */
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .help-card-title{
+    font-size: 2.8rem;
+    font-weight: 700;
+    text-align: center;
+    padding: 20px;
+  }
+  .help-card-text{
+    font-size: 1.1rem;
+    font-weight: 400;
+    text-align: center;
+    
+  }
+  .help-card img{
+    width: 100%;
+    border-radius: 10px;
+  }
+  .Contribute-btn{
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding: 16px 21px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  /* help css ends */
+
 
 
 
